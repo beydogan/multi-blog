@@ -28,3 +28,6 @@ group :development, :test do
 
 end
 
+gem 'blogit'
+gem "acts-as-taggable-on"
+
