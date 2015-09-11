@@ -28,8 +28,9 @@ group :development, :test do
 
 end
 
-gem 'blogit'
-gem "acts-as-taggable-on"
-
-gem "blogit-admin"
+# gem 'blogit'
+# gem "acts-as-taggable-on"
+#
+#gem "blogit-admin"
 gem 'devise'
+gem 'monologue', github: "jipiboily/monologue"
