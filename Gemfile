@@ -32,3 +32,4 @@ gem 'blogit'
 gem "acts-as-taggable-on"
 
 gem "blogit-admin"
+gem 'devise'
